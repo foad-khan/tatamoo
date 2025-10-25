@@ -1,0 +1,5 @@
+{
+  "name": "MaturityMap",
+  "description": "An intelligent assessment platform to help healthcare organizations evaluate their AI readiness. Powered by Google Gemini, it provides a comprehensive score, visual feedback, and a strategic roadmap for AI adoption.",
+  "requestFramePermissions": []
+}
